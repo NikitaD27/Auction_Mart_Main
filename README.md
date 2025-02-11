@@ -37,7 +37,7 @@ Node.js (For JavaScript Enhancements, if applicable)
 SQLite (Default) / PostgreSQL (For Production)
 Steps to Run the Project
 Clone the Repository
-git clone https://github.com/yourusername/auction-mart.git
+git clone https://github.com/NikitaD27/auction-mart.git
 cd auction-mart
 
 Create a Virtual Environment
